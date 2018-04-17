@@ -23,9 +23,11 @@ Make sure, that there are no empty lines in the textfile, this will screw someth
 
 ## Using the TutorTool jar
 I have exported an executable jar, so that makes it easier to use. As of yet there is no GUI, use the commandline to run the tool:
+
     java -jar tutortool.jar <path to student list> <targetpath> <path to assignment1> [<path to assignment 2> ... <path to assignment n>]
+
 Be aware, that the targetpath has to exist beforehand. 
 Download: <to be inserted>
 
-# Building it yourself
+## Building it yourself
 If you want to build it yourself, pull the repo and make sure to include the pom. 
