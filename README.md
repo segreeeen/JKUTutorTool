@@ -27,7 +27,7 @@ I have exported an executable jar, so that makes it easier to use. As of yet the
     java -jar tutortool.jar <path to student list> <targetpath> <path to assignment1> [<path to assignment 2> ... <path to assignment n>]
 
 Be aware, that the targetpath has to exist beforehand. 
-Download: <to be inserted>
+Download: https://github.com/segreeeen/JKUTutorTool/raw/master/export/tutortool-0.1.jar
 
 ## Building it yourself
 If you want to build it yourself, pull the repo and make sure to include the pom. 
