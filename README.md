@@ -2,7 +2,10 @@
 A tool for tutors at JKU (or other universities, if the setup is simmilar) to handle submitted eclipse projects, if they have been submitted over Moodle.
 
 # Features
-As of today (17.04.2018) the TutorTool can do the following:
+(30.04.2018)
+A simple GUI has been added, thanks goes out to Mario Krizic for his commit.
+
+(17.04.2018) the TutorTool can do the following:
 * When downloading all exercises over moodle, the TT deletes exercises which are not part of a specified list of names, and only leaves those that have to be corrected by the tutor. There can be more than one folders (called assignments as of now).
 * Unzip all eclipse projects to a specified path.
 * Rename the Eclipse projects from "<projectname>" to "<projectname><studentname>" to make it easier to see which submission is being corrected (no more renaming by hand!)
