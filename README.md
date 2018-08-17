@@ -1,5 +1,5 @@
 # JKUTutorTool
-A tool for tutors at JKU (or other universities, if the setup is simmilar) to handle submitted eclipse projects, if they have been submitted over Moodle.
+A tool for tutors at JKU (or other universities, if the setup is simmilar) to handle submitted eclipse projects, if they have been submitted over Moodle. Also it has been hacked together as fast as possible.
 
 # Features
 (30.04.2018)
